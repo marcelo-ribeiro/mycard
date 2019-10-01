@@ -1,0 +1,29 @@
+{
+  "version": "1.0.4",
+  "name": "myCard",
+  "launch_path": "/index.html",
+  "description": "myCard",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "",
+    "url": ""
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "pt-br",
+  "permissions": {
+  },
+  "locales": {
+    "pt-br": {
+      "name": "myCard",
+      "description": "myCard"
+    },
+    "en": {
+      "name": "myCard",
+      "description": "myCard"
+    }
+  }
+}
