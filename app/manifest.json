@@ -40,6 +40,6 @@
   ],
   "start_url": "https://marcelo-ribeiro.github.io/myCard/index.html?homescreen=1.0.0",
   "display": "standalone",
-  "background_color": "#ECE5DD",
-  "theme_color": "#075E54"
+  "background_color": "#FFFFFF",
+  "theme_color": "#000000"
 }
