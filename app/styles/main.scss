@@ -38,7 +38,7 @@ body {
   padding: 2rem 2rem;
   height: 100%;
   background-color: var(--color-bg);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.2) 50%, rgba(0, 0, 0, 0.5)), url("../images/perfil-marcelo.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3) 50%, rgba(0, 0, 0, 0.5)), url("../images/perfil-marcelo.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -46,6 +46,10 @@ body {
   overflow: hidden;
   cursor: default;
   user-select: none;
+
+  &.app-erick {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3) 50%, rgba(0, 0, 0, 0.5)), url("../images/perfil-erick.jpg");
+  }
 }
 
 main {
