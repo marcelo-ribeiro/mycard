@@ -114,6 +114,7 @@ svg {
 
 .links__item {
   display: flex;
+  justify-content: center;
   width: 88px;
   padding: 0.25rem;
 }
@@ -127,6 +128,7 @@ svg {
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 100%;
   padding: 0.5rem;
 
   &:active {
