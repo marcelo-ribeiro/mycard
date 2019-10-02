@@ -39,7 +39,7 @@
     }
   ],
   "start_url": "https://marcelo-ribeiro.github.io/mycard/index.html?homescreen=1.0.0",
-  "display": "fullscreen",
+  "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#000000"
 }

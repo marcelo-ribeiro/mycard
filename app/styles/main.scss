@@ -106,7 +106,7 @@ svg {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  margin: -0.5rem;
+  margin: -0.5rem -0.25rem;
   padding: 0;
   list-style: none;
   // width: calc(88px * 3);
@@ -116,7 +116,7 @@ svg {
   display: flex;
   justify-content: center;
   width: 88px;
-  padding: 0.25rem;
+  padding: 0.5rem 0.25rem;
 }
 
 .links__divider {
